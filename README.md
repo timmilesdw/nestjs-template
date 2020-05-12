@@ -1,7 +1,5 @@
 # nestjs-template
 
-## nestjs-template with my settings and test create and read.
-
 ## Install
 1.
 ```bash
